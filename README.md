@@ -6,3 +6,6 @@ practice <br>
 ##### lalalala <br>
 
 <hr>
+
+[google] (google.com)
+[yahoo] (yahoo.com.tw)
