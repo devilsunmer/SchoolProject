@@ -17,3 +17,5 @@ practice <br>
 [school技術文件](doc/index.html)
 
 當作讓人理解這個java專題到底是在做甚麼用的，說明書的概念
+
+![娃娃](pic/doll.JPG)
