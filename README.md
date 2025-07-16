@@ -7,5 +7,5 @@ practice <br>
 
 <hr>
 
-[google] (google.com)
-[yahoo] (yahoo.com.tw)
+[google](google.com)
+[yahoo](yahoo.com.tw)
