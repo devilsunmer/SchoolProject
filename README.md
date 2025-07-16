@@ -20,4 +20,4 @@ practice <br>
 
 ![娃娃](pic/doll.JPG)
 
-![娃娃2](pic/doll2.bmp)
+![娃娃2](pic/doll2.png)
