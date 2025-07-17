@@ -7,6 +7,8 @@ practice <br>
 
 <hr>
 
+以下這些將會當作是課堂筆記網頁註記使用<br>
+
 [google](http://google.com)<br>
 [yahoo](http://yahoo.com.tw)
 
@@ -21,3 +23,8 @@ practice <br>
 ![娃娃](pic/doll.JPG)
 
 ![娃娃2](pic/doll2.png)
+
+[網頁語法](https://poi.apache.org/)
+
+
+
